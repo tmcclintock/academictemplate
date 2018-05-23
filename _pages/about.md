@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
+Astrophysicist at the University of Arizona, soon to be at Brookhaven National Lab.
 
 ## Professional
 
-Look at all the work that I do, results that I have! 
+Working in the fields of astrophysics and cosmology, I recently obtained my doctorate in physics from the University of Arizona. My thesis was completed under [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo) and is titled "Galaxy Clusters in the Dark Energy Survey".
 
 
 ## Personal
