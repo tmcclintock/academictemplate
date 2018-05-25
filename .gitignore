@@ -1,3 +1,6 @@
+# emacs backups
+*~
+
 *.gem
 *.sublime-project
 *.sublime-workspace
