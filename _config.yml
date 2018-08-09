@@ -100,21 +100,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "Tom McClintock"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
-  location         : 
-  employer         : 
-  email            : "email@email.com"
+  bio              : "Postdoc in astrophysics working at Brookhaven National Lab. Previously at the University of Arizona."
+  location         : "Long Island, NY"
+  employer         : "Brookhaven National Lab"
+  email            : "tmcclintock89@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : 
+  bitbucket        : "https://bitbucket.org/tmcclintock/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/tmcclintock"
   gitlab           :
   google_plus      :
   keybase          :
