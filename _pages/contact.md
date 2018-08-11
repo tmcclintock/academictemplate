@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Here's my contact info
+Feel free to send me an email, which can be found in the left sidebar.

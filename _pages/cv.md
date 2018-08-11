@@ -13,27 +13,32 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
-
-## Education
----
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
-
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+<a href="../files/CV.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Research experience
 ---
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+**2018 - Present**<br>
+Postdoctoral Researcher<br>
+Working with Drs. Erin Sheldon and Anze Slosar. Member of the Dark Energy Survey and the LSST Dark Energy Science Collaboration.<br>
+
+## Education
+---
+**2012-2018**<br>
+Ph.D. in Physics<br>
+University of Arizona<br>
+*Advisor: Prof. Eduardo Rozo*<br>
+*Relevant Publications: <a href="../publications/publication1" class="uline">McClintock et al. 2018a</a>, <a href="../publications/publication1" class="uline">McClintock et al. 2018b</a>*<br>
+
+**2011-2012**<br>
+M.Sc. in High Performance Computing<br>
+University of Edinburgh<br>
+*Advisor: Prof. David Henty*
+
+**2007-2011**<br>
+B.S. in Physics and Astronomy<br>
+Amherst College<br>
+*Advisor: Prof. Fulvio Melia*
 
 
 ## Service and Outreach
@@ -44,22 +49,24 @@ Outreach<br>
 
 ## Publications
 ---
-**Name2** et al. "Title of paper 1", 2016.
+**McClintock** et al. "Dark Energy Survey Year 1 Results: Weak Lensing Mass Calibration of redMaPPer Galaxy Clusters", 2018.<br>
+**McClintock** et al. "The Aemulus Project II: Emulating the Halo Mass Function", 2018.<br>
+
 
 
 
 ## Awards and Honors
 ---
-Best Jekyll Theme, *Spring 2018*<br>
+Best Graduate Student Physics Seminar, *Spring 2016*<br>
 
 
 ## Talks and Presentations
 ---
-"Seminar 17", University Colloquium, *March 2018*
+"Galaxy clusters in the Dark Energy Survey", Fermilab Colloquium, *May 2018*
 
 
 ## Teaching
 ---
-**Summer 1900**<br>
+**Summer 2013**<br>
 Primary Instructor<br>
-*Quantum Field Theory 101*
+*Optics and E&M Lab - Phys 182*

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Astrophysicist at the University of Arizona, soon to be at Brookhaven National Lab.
+Hello! My name is Tom and I am an astrophysicist working Brookhaven National Lab on Long Island. Previously I was a graduate student at the University of Arizona working under Professor Eduardo Rozo.
 
 ## Professional
 
