@@ -53,10 +53,10 @@ Outreach<br>
 **McClintock** et al. "The Aemulus Project II: Emulating the Halo Mass Function", 2018.<br>
 
 
-
-
 ## Awards and Honors
 ---
+Galileo Circle Scholar, *Spring 2017 & 2018*<br>
+College of Science Teaching Award, *Spring 2017*<br>
 Best Graduate Student Physics Seminar, *Spring 2016*<br>
 
 
@@ -67,6 +67,11 @@ Best Graduate Student Physics Seminar, *Spring 2016*<br>
 
 ## Teaching
 ---
-**Summer 2013**<br>
-Primary Instructor<br>
-*Optics and E&M Lab - Phys 182*
+**Fall 2014**<br>
+Primary Instructor, *Introduction to Scientific Computing - Phys 105*<br>
+**Spring 2013, Fall 2014 & Spring 2014**<br>
+Teaching Assistant, *Computational Physics - Phys 305*<br>
+**Spring 2013 - Fall 2015**<br>
+Teaching Assistant, *Introduction to Scientific Computing - Phys 105*<br>
+**Fall 2013 - Fall 2014**<br>
+Lab Instructor, *Optics and E&M Lab - Phys 182*
