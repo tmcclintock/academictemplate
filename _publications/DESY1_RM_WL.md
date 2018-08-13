@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/DESY1_RM_WL
 excerpt: "Measured the mass of galaxy clusters identified in DES using stacked weak lensing techniques."
 date: 2018-04-30
-venue: 'Journal'
+venue: 'Submitted'
 classes: wide
 ---
 ## Summary
@@ -19,4 +19,4 @@ We constrain the mass--richness scaling relation of redMaPPer galaxy clusters id
 [Download the paper here](https://arxiv.org/abs/1805.00039)
 
 ## Recommended citation:
-McClintock et al., 2018, arXiv:1805.00039
+McClintock T. et al., 2018, arXiv:1805.00039
