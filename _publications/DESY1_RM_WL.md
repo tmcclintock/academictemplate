@@ -2,7 +2,7 @@
 title: "Dark Energy Survey Year 1 Results: Weak Lensing Mass Calibration of redMaPPer Galaxy Clusters"
 collection: publications
 permalink: /publications/DESY1_RM_WL
-excerpt: "Measured the mass of galaxy clusters identified in DES using stacked weak lensing techniques."
+excerpt: "Measured the mass of galaxy clusters identified in DES Year 1 data using stacked weak lensing techniques."
 date: 2018-04-30
 venue: 'Submitted'
 classes: wide
