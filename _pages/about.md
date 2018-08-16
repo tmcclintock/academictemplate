@@ -16,4 +16,6 @@ Working in the fields of astrophysics and cosmology, I recently obtained my doct
 
 
 ## Personal
-Sometimes, I have free time and when I do I like to do things!
+In my free time I enjoy such hobbies as Dungeons and Dragons, Ultimate Frisbee, and hiking with my dog Bailey.
+
+Much apologies, this website is currently under construction. It will be completed soon!
