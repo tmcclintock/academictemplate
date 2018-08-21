@@ -28,7 +28,7 @@ Working with Drs. Erin Sheldon and Anze Slosar. Member of the Dark Energy Survey
 Ph.D. in Physics<br>
 University of Arizona<br>
 *Advisor: Prof. Eduardo Rozo*<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">McClintock et al. 2018a</a>, <a href="../publications/publication1" class="uline">McClintock et al. 2018b</a>*<br>
+*Relevant Publications: <a href="../publications/DESY1_RM_WL" class="uline">McClintock et al. 2018a</a>, <a href="../publications/hmf_emulator" class="uline">McClintock et al. 2018b</a>*<br>
 
 **2011-2012**<br>
 M.Sc. in High Performance Computing<br>
