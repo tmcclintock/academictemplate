@@ -12,8 +12,9 @@ Hello! My name is Tom and I am an astrophysicist working Brookhaven National Lab
 
 ## Professional
 
-Working in the fields of astrophysics and cosmology, I recently obtained my doctorate in physics from the University of Arizona. My thesis was completed under [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo) and is titled "Galaxy Clusters in the Dark Energy Survey".
+I recently obtained my doctorate in physics from the University of Arizona. My thesis was completed under [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo) and is titled "Galaxy Clusters in the Dark Energy Survey". Before that, I completed a masters in high performance computing at the University of Edinburgh.
 
+My work focuses on mitigating systematics related to using galaxy clusters to constrains cosmological parameters, as well as developing new tools derived from large simulations of our universe. On the galaxy cluster side, I have been active in the Dark Energy Survey (DES) as well as the LSST Dark Energy Science Collaboration (DESC).
 
 ## Personal
 In my free time I enjoy such hobbies as Dungeons and Dragons, Ultimate Frisbee, and hiking with my dog Bailey.
