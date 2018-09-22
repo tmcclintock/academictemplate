@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-classes: wide
+classes: thin
 ---
 
 Clicking on any of the links below will redirect you to the abstract and details of my contributions.

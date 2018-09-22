@@ -6,17 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: wide
+classes: thin
 ---
-Hello! My name is Tom and I am an astrophysicist working Brookhaven National Lab on Long Island. Previously I was a graduate student at the University of Arizona working under Professor Eduardo Rozo.
+Hello! I am a postdoctoral researcher at Brookhaven National Lab in the astrophysics group. I completed my PhD at the University of Arizona working under Professor [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo). I also completed a masters in high performance computing at the University of Edinburgh, and obtained my bachelors from Amherst College.
 
-## Professional
+I am a strong advocate for inclusiveness and a positive student experience in research.
 
-I recently obtained my doctorate in physics from the University of Arizona. My thesis was completed under [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo) and is titled "Galaxy Clusters in the Dark Energy Survey". Before that, I completed a masters in high performance computing at the University of Edinburgh.
+My research interests are varied, but my primary focus is on galaxy clusters and gravitational weak lensing. I also work on developing machine learning techniques to leverage the power of large cosmological simulations. On the side, I dabble in modeling Mars ice deposits as well as the physics of frisbee flights.
 
-My work focuses on mitigating systematics related to using galaxy clusters to constrains cosmological parameters, as well as developing new tools derived from large simulations of our universe. On the galaxy cluster side, I have been active in the Dark Energy Survey (DES) as well as the LSST Dark Energy Science Collaboration (DESC).
+I am currently a member of the LSST Dark Energy Science Collaboration, and am the cluster weak lensing co-lead in the Dark Energy Survey.
 
-## Personal
-In my free time I enjoy such hobbies as Dungeons and Dragons, Ultimate Frisbee, and hiking with my dog Bailey.
-
-Much apologies, this website is currently under construction. It will be completed soon!
+Feel free to contact me if you are intersted in working together.
