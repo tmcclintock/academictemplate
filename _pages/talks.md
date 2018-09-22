@@ -3,7 +3,7 @@ layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
-classes: wide
+classes: thin
 ---
 
 {% for post in site.talks reversed %}

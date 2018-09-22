@@ -3,7 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-classes: wide
+classes: thin
 ---
 
 {% include base_path %}
